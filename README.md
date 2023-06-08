@@ -12,18 +12,12 @@ Keeps updates on this GitHub repo as this changes a lot
 ---
 # *Current*
 
-## Golden Leaf
+## Kiruna
 
 ### Info
 Development: Jan 18, 2023-Current
-Released: Late Summer of 2025
+Released: Late Summer of 2026
 
 ---
 
 # *Future*
-
-## Party Game
-
-### Info
-Devlopment: Late Winter of 2025
-Released: Summer of 2027
