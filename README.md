@@ -15,7 +15,10 @@ Keeps updates on this GitHub repo as this changes a lot
 ## Kiruna
 
 ### Info
-Development: Jan 18, 2023-Current
+Development: Jan 18, 2023 - Current
+
+Development Status: First playable
+
 Released: Late Summer of 2026
 
 ---
