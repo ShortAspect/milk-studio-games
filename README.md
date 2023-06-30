@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the milk-studio GitHub repo. Right here, you'll find information about our current and upcoming games.
+Welcome to the milk-studio's GitHub repo. Right here, you'll find information about our current and upcoming games.
 
 Keeps updates on this GitHub repo as this changes a lot
 
